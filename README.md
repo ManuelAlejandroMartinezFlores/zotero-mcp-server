@@ -89,7 +89,7 @@ To install, clone the repo or download the zip file. It is recommended to use `u
 ```
 In order to access your zotero information, you need your user id and an API key. They can be configured in the `.env` file as
 ```env
-LIBRARY_ID = "9776982"
-ZOTERO_API_KEY = "h31iOgapRyArWbPY7bi1Lvsh"
+LIBRARY_ID = "12334"
+ZOTERO_API_KEY = "asdfasfas"
 LIBRARY_TYPE = "user"
 ```
